@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(224, 144, 24, 0.747);
+    background-image: url("/assets/food.jpg");
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 300px;
+}
+.background{
+    border: 1px solid black;
+    width: 200px;
+    padding-top: 10px;  
+    border-radius: 20px;
+    color: aliceblue;
+}
+.background2{
+    border: 1px solid black;
+    width: 200px;
+    color: aliceblue;
+    padding-top: 10px;
+    border-radius: 20px;  
+}
+.dis{
+    border: 1px solid black;
+    width: 1000px;
+    color: aliceblue;
+    padding-top: 10px;  
+    border-radius: 20px;
+}
+h2{
+    margin: 20px;
+}
+
+.h{
+    color: rgb(233, 10, 47);
+    background-color: rgba(230, 162, 98, 0.959);
+   border: 2px solid;
+   border-radius: 100%;
+    text-align: center;
+}
+a{
+    color: aqua;
+}
